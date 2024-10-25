@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            TITLE_HERE
+title:            The Material BLog: The Tibetan Prayer Wheel
 tagline:          ''
 description:      ''
-url:              https://kikibase.github.io
+url:              https://simeonlanrewaju.github.io
 baseurl:          '/Blog-Assignment/'
-author: WriteNameHere
-email: replace@gmail.com
+author: Simeon Lanrewaju
+email: lanrewas@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
